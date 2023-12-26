@@ -2,10 +2,10 @@ import Image from "next/image";
 
 export default function Achievements() {
   return (
-    <section className="bg-neutralSilver flex flex-row wrap px-36">
+    <section className="bg-neutralSilver flex flex-row wrap px-36 py-16">
       <div>
         <h2 className="text-neutralGray font-semibold text-4xl/[44px]">
-          Helping a local<span className="text-greenBrand-100">
+          Helping a local <span className="text-greenBrand-100">
             business reinvent itself
           </span>
         </h2>

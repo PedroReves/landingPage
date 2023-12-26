@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Benefits() {
   return (
-    <section>
+    <section className="px-36 py-12">
       <h2 className="text-4xl/[44px] font-semibold text-center text-neutralGray pt-10">
         Manage your entire community in a single system
       </h2>

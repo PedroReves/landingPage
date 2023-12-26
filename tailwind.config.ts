@@ -10,6 +10,7 @@ const config: Config = {
     extend: {
       colors: {
         'neutralSilver': '#F5F7FA',
+        'neutralBlack': '#263238',
         'darkGray': '#18191F',
         'neutralGray': '#4D4D4D',
         'lightGray': '#717171',
